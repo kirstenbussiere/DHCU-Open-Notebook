@@ -1,0 +1,20 @@
+Text Analysis - synonimous to many with what digital humanities is all about
+All comes down to counting and counting things at scale 
+Mining the dispatch
+Problem of indexing - topic modelling 
+Feed a boatload of text in and out comes the topics that are in your data
+Interesting patterns that you can explain with your historical sensibility
+Once one person figures out how to do something digital it becomes much easier because more people do it
+Topic modelling has started to fall out of fashion because very few use topic modelling projects appropriately
+Be wary of letting the text drive the analysis
+A distribution over distributions - machine is looking at each word in relation to every other word in the document and in the corpus 
+There are buckets of themed words and they can be pulled out and arranged then from the created text the computer can decompose and change it to buckets
+You need to choose how many buckets you are looking for. This is only a problem when you believe that the computer should give you the answer
+You can get the computer to optimize the data but essentially its up to you to interplay with the machine and look at how the corpus looks with a certain amount of topics
+Not about getting an answer but rather getting a new view of the world 
+Aaron Schwarts - arrested for downloading thousands of articles from jstor and was being charged with terrorism but while in jail committed suicide. "The Internet's Only Boy"
+dfr.jstor.com
+Mindset that enables computational analysis was always there before it was possible
+The more a computer runs the more sense a topic model will make
+Topic modelling is an unsupervised approached and you give it a certain number of topics and then run over and over with a different number of question
+Its all about probability so the edges will be slightly different 
