@@ -1,0 +1,26 @@
+##Visualization
+With visualization you often cannot just have the graphic but you it is also signifigant to add the text to explain the graphic
+
+Etymology:
+From Latin videre meaning to see and visus meaning sight, then late latin visualis moved to the late Middle English word visual
+"A mapping between discrete data and a visual representation" - Lev Manovich 
+
+Types of Visualization:
+-Information visualization: non-spatial, numeric, and non-numeric data to create graphs and charts
+-Scientific visualization: to graphically illustrate scientific data, which can often only be percieved by somebody with a background in the field
+-Geovisualization: layers of data on a map, deals mostly with mapping and urban visualizations 
+
+Types of Data:
+-Spatial: position, size, shape, and linear curves
+-Non-Spatial: numbers, characters, logical type
+-Numeric: numbers
+-Non-numeric: network simulations, text
+
+Information visualization is good to show data but it does not give all the information and as such they often cannot live without text support
+Firmly embedded in the context of the material - we make assumptions based on data 
+Datadrivendj
+Neatline 
+Interesting things can happen when mixing modes 
+The Heritage Jam
+With visualization you can map things together in new ways
+Optimal workshop
